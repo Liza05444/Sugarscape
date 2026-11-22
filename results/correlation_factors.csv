@@ -1,0 +1,17 @@
+study,backend,step,metric,valid_levels,total_levels,factor_r
+density,Mesa,10,corr_sugar_metabolism,6,6,0.995044710872211
+density,Mesa,10,corr_sugar_vision,6,6,0.851102348968107
+density,Mesa,40,corr_sugar_metabolism,6,6,0.9896798132872238
+density,Mesa,40,corr_sugar_vision,6,6,0.9661520187489614
+density,Mesa Frames,10,corr_sugar_metabolism,6,6,0.985103893912319
+density,Mesa Frames,10,corr_sugar_vision,6,6,-0.16149931298328904
+density,Mesa Frames,40,corr_sugar_metabolism,6,6,0.974889455196748
+density,Mesa Frames,40,corr_sugar_vision,6,6,0.5713608337479752
+fertility,Mesa,10,corr_sugar_metabolism,4,4,-0.9376642755181913
+fertility,Mesa,10,corr_sugar_vision,4,4,0.8528465070151698
+fertility,Mesa,40,corr_sugar_metabolism,3,4,-0.4639014643666332
+fertility,Mesa,40,corr_sugar_vision,4,4,-0.2154738416624533
+fertility,Mesa Frames,10,corr_sugar_metabolism,4,4,-0.9692658846743317
+fertility,Mesa Frames,10,corr_sugar_vision,4,4,0.9056578990960729
+fertility,Mesa Frames,40,corr_sugar_metabolism,3,4,-0.9991832037611165
+fertility,Mesa Frames,40,corr_sugar_vision,4,4,-0.3028608026640811
